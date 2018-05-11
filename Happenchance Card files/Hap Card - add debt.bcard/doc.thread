@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bundle Version</key>
+	<string>571</string>
+	<key>Card Height</key>
+	<string>144.000</string>
+	<key>Card Width</key>
+	<string>252.000</string>
+	<key>Default Settings</key>
+	<dict>
+		<key>Color</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlNDb2xvclNwYWNl
+		VU5TUkdCViRjbGFzcxABTxAnMC44MDAwMDAwMTE5IDAuODAwMDAwMDExOSAw
+		LjgwMDAwMDAxMTkAgALSEhMUF1gkY2xhc3Nlc1okY2xhc3NuYW1lohUWV05T
+		Q29sb3JYTlNPYmplY3RXTlNDb2xvchIAAYagXxAPTlNLZXllZEFyY2hpdmVy
+		CBEWHygyNTo8QEZNWmBnaZOVmqOusbnCys8AAAAAAAABAQAAAAAAAAAaAAAA
+		AAAAAAAAAAAAAAAA4Q==
+		</data>
+		<key>Fill Background</key>
+		<string>NO</string>
+		<key>Gradient First Color</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlNDb2xvclNwYWNl
+		VU5TUkdCViRjbGFzcxABTxAnMC44MDAwMDAwMTE5IDAuODAwMDAwMDExOSAw
+		LjgwMDAwMDAxMTkAgALSEhMUF1gkY2xhc3Nlc1okY2xhc3NuYW1lohUWV05T
+		Q29sb3JYTlNPYmplY3RXTlNDb2xvchIAAYagXxAPTlNLZXllZEFyY2hpdmVy
+		CBEWHygyNTo8QEZNWmBnaZOVmqOusbnCys8AAAAAAAABAQAAAAAAAAAaAAAA
+		AAAAAAAAAAAAAAAA4Q==
+		</data>
+		<key>Gradient Second Color</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlNDb2xvclNwYWNl
+		VU5TUkdCViRjbGFzcxABRjEgMSAxAIAC0hITFBdYJGNsYXNzZXNaJGNsYXNz
+		bmFtZaIVFldOU0NvbG9yWE5TT2JqZWN0V05TQ29sb3ISAAGGoF8QD05TS2V5
+		ZWRBcmNoaXZlcggRFh8oMjU6PEBGTVpgZ2lwcneAi46Wn6esAAAAAAAAAQEA
+		AAAAAAAAGgAAAAAAAAAAAAAAAAAAAL4=
+		</data>
+		<key>Outline Color</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlNDb2xvclNwYWNl
+		VU5TUkdCViRjbGFzcxABTxAaMCAwLjI1MDk4MDQwNyAwLjUwMTk2MDgxNACA
+		AtISExQXWCRjbGFzc2VzWiRjbGFzc25hbWWiFRZXTlNDb2xvclhOU09iamVj
+		dFdOU0NvbG9yEgABhqBfEA9OU0tleWVkQXJjaGl2ZXIIERYfKDI1OjxARk1a
+		YGdphoiNlqGkrLW9wgAAAAAAAAEBAAAAAAAAABoAAAAAAAAAAAAAAAAAAADU
+		</data>
+		<key>Pen Width</key>
+		<string>1.00,0</string>
+		<key>Stroke</key>
+		<string>YES</string>
+	</dict>
+	<key>Default Settings Text</key>
+	<dict>
+		<key>Background Color</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlNDb2xvclNwYWNl
+		VU5TUkdCViRjbGFzcxABTxAnMC44MDAwMDAwMTE5IDAuODAwMDAwMDExOSAw
+		LjgwMDAwMDAxMTkAgALSEhMUF1gkY2xhc3Nlc1okY2xhc3NuYW1lohUWV05T
+		Q29sb3JYTlNPYmplY3RXTlNDb2xvchIAAYagXxAPTlNLZXllZEFyY2hpdmVy
+		CBEWHygyNTo8QEZNWmBnaZOVmqOusbnCys8AAAAAAAABAQAAAAAAAAAaAAAA
+		AAAAAAAAAAAAAAAA4Q==
+		</data>
+		<key>Color</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlNDb2xvclNwYWNl
+		VU5TUkdCViRjbGFzcxABRjAgMCAwAIAC0hITFBdYJGNsYXNzZXNaJGNsYXNz
+		bmFtZaIVFldOU0NvbG9yWE5TT2JqZWN0V05TQ29sb3ISAAGGoF8QD05TS2V5
+		ZWRBcmNoaXZlcggRFh8oMjU6PEBGTVpgZ2lwcneAi46Wn6esAAAAAAAAAQEA
+		AAAAAAAAGgAAAAAAAAAAAAAAAAAAAL4=
+		</data>
+		<key>Fill Background</key>
+		<string>NO</string>
+		<key>Horizontal Alignment</key>
+		<string>0</string>
+		<key>Shadow</key>
+		<string>NO</string>
+		<key>Text Color</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlNDb2xvclNwYWNl
+		VU5TUkdCViRjbGFzcxABTxAaMCAwLjI1MDk4MDQwNyAwLjUwMTk2MDgxNACA
+		AtISExQXWCRjbGFzc2VzWiRjbGFzc25hbWWiFRZXTlNDb2xvclhOU09iamVj
+		dFdOU0NvbG9yEgABhqBfEA9OU0tleWVkQXJjaGl2ZXIIERYfKDI1OjxARk1a
+		YGdphoiNlqGkrLW9wgAAAAAAAAEBAAAAAAAAABoAAAAAAAAAAAAAAAAAAADU
+		</data>
+		<key>Text Storage::DefValue</key>
+		<data>
+		cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4sAQAAKwAAAAEAAAAk
+		AQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29h
+		c3VicnRmODMwClxjb2NvYXNjcmVlbmZvbnRzMXtcZm9udHRibFxmMFxmbmls
+		XGZjaGFyc2V0MCBDYWxpYnJpO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVu
+		MjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7fQpccGFyZFx0
+		eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4Mzky
+		MFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHBhcmRpcm5h
+		dHVyYWwKClxmMFxiXGZzNDggXGNmMCBNfQEAAAAjAAAAAQAAAAcAAABUWFQu
+		cnRmEAAAAEzCcFq2AQAAAAAAAAAAAAA=
+		</data>
+	</dict>
+	<key>Document Contents</key>
+	<array>
+		<dict>
+			<key>Back Components</key>
+			<array>
+				<dict>
+					<key>Angle</key>
+					<string>0.000</string>
+					<key>Bounds</key>
+					<string>{{2.3708937, 2.7624629}, {247.63872, 139.07748}}</string>
+					<key>Class ID</key>
+					<string>Filled Square Field</string>
+					<key>Component Type</key>
+					<string>1</string>
+					<key>Curve Radius</key>
+					<string>0.500</string>
+					<key>FT Picture</key>
+					<dict>
+						<key>Angle</key>
+						<string>0.000</string>
+						<key>Bounds</key>
+						<string>{{0, 0}, {0, 0}}</string>
+						<key>Class ID</key>
+						<string>Picture</string>
+						<key>Data Ref</key>
+						<string></string>
+						<key>Fill Background</key>
+						<string>NO</string>
+						<key>FlipX</key>
+						<string>NO</string>
+						<key>FlipY</key>
+						<string>NO</string>
+						<key>Has SrcRect</key>
+						<string>NO</string>
+						<key>Mask</key>
+						<string>NO</string>
+						<key>Mask Data Ref</key>
+						<string></string>
+						<key>Opacity</key>
+						<string>1.000</string>
+						<key>Picture Source</key>
+						<string>0</string>
+						<key>Picture Source State</key>
+						<string>NO</string>
+						<key>Place Mode</key>
+						<string>0</string>
+						<key>Replaceable</key>
+						<string>NO</string>
+						<key>Stroke</key>
+						<string>NO</string>
+						<key>Text Wrapping Inset</key>
+						<string>0.000</string>
+						<key>Text wrapping</key>
+						<string>3</string>
+						<key>Tile Scale</key>
+						<string>7621.000</string>
+					</dict>
+					<key>Fill Background</key>
+					<string>NO</string>
+					<key>Filling Mode</key>
+					<string>1</string>
+					<key>FlipX</key>
+					<string>NO</string>
+					<key>FlipY</key>
+					<string>NO</string>
+					<key>Outline Color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlND
+					b2xvclNwYWNlVU5TUkdCViRjbGFzcxABTxAa
+					MCAwLjI1MDk4MDQwNyAwLjUwMTk2MDgxNACA
+					AtISExQXWCRjbGFzc2VzWiRjbGFzc25hbWWi
+					FRZXTlNDb2xvclhOU09iamVjdFdOU0NvbG9y
+					EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIIERYf
+					KDI1OjxARk1aYGdphoiNlqGkrLW9wgAAAAAA
+					AAEBAAAAAAAAABoAAAAAAAAAAAAAAAAAAADU
+					</data>
+					<key>Pen Width</key>
+					<string>1.00,0</string>
+					<key>Side Count</key>
+					<string>5.000</string>
+					<key>Stroke</key>
+					<string>YES</string>
+					<key>Text Wrapping Inset</key>
+					<string>0.000</string>
+					<key>Text wrapping</key>
+					<string>3</string>
+				</dict>
+			</array>
+			<key>Comment</key>
+			<string></string>
+			<key>Components</key>
+			<array>
+				<dict>
+					<key>Address Panel ToFrom</key>
+					<string>YES</string>
+					<key>Address Source</key>
+					<string>1</string>
+					<key>Angle</key>
+					<string>0.000</string>
+					<key>Background Color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlND
+					b2xvclNwYWNlVU5TUkdCViRjbGFzcxABRjEg
+					MSAxAIAC0hITFBdYJGNsYXNzZXNaJGNsYXNz
+					bmFtZaIVFldOU0NvbG9yWE5TT2JqZWN0V05T
+					Q29sb3ISAAGGoF8QD05TS2V5ZWRBcmNoaXZl
+					cggRFh8oMjU6PEBGTVpgZ2lwcneAi46Wn6es
+					AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAA
+					AAAAAL4=
+					</data>
+					<key>Bounds</key>
+					<string>{{4.6800709, 14.557169}, {241.36757, 112}}</string>
+					<key>Class ID</key>
+					<string>Titled Text</string>
+					<key>Dont AutoResize</key>
+					<string>NO</string>
+					<key>Field Mode</key>
+					<string>2</string>
+					<key>Fill Background</key>
+					<string>NO</string>
+					<key>FlipX</key>
+					<string>NO</string>
+					<key>FlipY</key>
+					<string>NO</string>
+					<key>Horizontal Alignment</key>
+					<string>1</string>
+					<key>Is Preferred</key>
+					<string>YES</string>
+					<key>Label</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIl5hUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABrxAjCQoTFx4sLS4vMDZFSU1QU1ZZ
+					XF9iZWhrbnJ2d3+AhIqOCZFVJG51bGzUCwwN
+					Dg8QERJYTlNTdHJpbmdcTlNBdHRyaWJ1dGVz
+					Wk5TRGVsZWdhdGVWJGNsYXNzgAKABIAhgCLS
+					DhQVFllOUy5zdHJpbmeAA1lGdWxsIE5hbWXS
+					GBkaG1gkY2xhc3Nlc1okY2xhc3NuYW1loxsc
+					HV8QD05TTXV0YWJsZVN0cmluZ1hOU1N0cmlu
+					Z1hOU09iamVjdNMfDiAhJidaTlMub2JqZWN0
+					c1dOUy5rZXlzpCIjJCWACYAagBuAHoAgpCgp
+					KiuABYAGgAeACF8QEE5TUGFyYWdyYXBoU3R5
+					bGVWTlNLZXJuVk5TRm9udFdOU0NvbG9y0w4x
+					MjM0NVtOU0FsaWdubWVudFpOU1RhYlN0b3Bz
+					gBkQAoAK0g4fNziAGKw5Ojs8PT4/QEFCQ0SA
+					C4ANgA6AD4AQgBGAEoATgBSAFYAWgBfSRg5H
+					SFpOU0xvY2F0aW9uI0A8AAAAAAAAgAzSGBlK
+					TKJLHVlOU1RleHRUYWJZTlNUZXh0VGFi0kYO
+					TkgjQEwAAAAAAACADNJGDlFII0BVAAAAAAAA
+					gAzSRg5USCNAXAAAAAAAAIAM0kYOV0gjQGGA
+					AAAAAACADNJGDlpII0BlAAAAAAAAgAzSRg5d
+					SCNAaIAAAAAAAIAM0kYOYEgjQGwAAAAAAACA
+					DNJGDmNII0BvgAAAAAAAgAzSRg5mSCNAcYAA
+					AAAAAIAM0kYOaUgjQHNAAAAAAACADNJGDmxI
+					I0B1AAAAAAAAgAzSGBlvcaJwHVdOU0FycmF5
+					V05TQXJyYXnSGBlzdKN0dR1fEBdOU011dGFi
+					bGVQYXJhZ3JhcGhTdHlsZV8QEE5TUGFyYWdy
+					YXBoU3R5bGUiAAAAANR4Dnl6e3x9flZOU05h
+					bWVWTlNTaXplWE5TZkZsYWdzgByAHSNAIAAA
+					AAAAABAQXEdlb3JnaWEtQm9sZNIYGYGDooId
+					Vk5TRm9udFZOU0ZvbnTThYYOh4iJXE5TQ29s
+					b3JTcGFjZVVOU1JHQhABTxAnMC40Nzk5OTk5
+					ODkzIDAuNDc5OTk5OTg5MyAwLjQ3OTk5OTk4
+					OTMAgB/SGBmLjaKMHVdOU0NvbG9yV05TQ29s
+					b3LSGBmPkKKQHVxOU0RpY3Rpb25hcnnSGBmS
+					lqSTlJUdXU5TVGV4dFN0b3JhZ2VfEBlOU011
+					dGFibGVBdHRyaWJ1dGVkU3RyaW5nXxASTlNB
+					dHRyaWJ1dGVkU3RyaW5nXU5TVGV4dFN0b3Jh
+					Z2USAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAI
+					ABEAFgAfACgAMgA1ADoAPABiAGgAcQB6AIcA
+					kgCZAJsAnQCfAKEApgCwALIAvADBAMoA1QDZ
+					AOsA9AD9AQQBDwEXARwBHgEgASIBJAEmASsB
+					LQEvATEBMwFGAU0BVAFcAWMBbwF6AXwBfgGA
+					AYUBhwGUAZYBmAGaAZwBngGgAaIBpAGmAagB
+					qgGsAbEBvAHFAccBzAHPAdkB4wHoAfEB8wH4
+					AgECAwIIAhECEwIYAiECIwIoAjECMwI4AkEC
+					QwJIAlECUwJYAmECYwJoAnECcwJ4AoECgwKI
+					ApECkwKYApsCowKrArACtALOAuEC5gLvAvYC
+					/QMGAwgDCgMTAxUDIgMnAyoDMQM4Az8DTANS
+					A1QDfgOAA4UDiAOQA5gDnQOgA60DsgO3A8UD
+					4QP2BAQECQAAAAAAAAIBAAAAAAAAAJkAAAAA
+					AAAAAAAAAAAAAAQb
+					</data>
+					<key>Line Number</key>
+					<string>-1</string>
+					<key>Linked Data</key>
+					<dict>
+						<key>Address Panel ToFrom</key>
+						<string>YES</string>
+						<key>Address Source</key>
+						<string>1</string>
+						<key>Angle</key>
+						<string>0.000</string>
+						<key>Background Color</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIGBlUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABowkK
+						EVUkbnVsbNMLDA0ODxBcTlNDb2xv
+						clNwYWNlVU5TUkdCViRjbGFzcxAB
+						RjEgMSAxAIAC0hITFBdYJGNsYXNz
+						ZXNaJGNsYXNzbmFtZaIVFldOU0Nv
+						bG9yWE5TT2JqZWN0V05TQ29sb3IS
+						AAGGoF8QD05TS2V5ZWRBcmNoaXZl
+						cggRFh8oMjU6PEBGTVpgZ2lwcneA
+						i46Wn6esAAAAAAAAAQEAAAAAAAAA
+						GgAAAAAAAAAAAAAAAAAAAL4=
+						</data>
+						<key>Bounds</key>
+						<string>{{4.6800709, 14.557169}, {241.36757, 112}}</string>
+						<key>Class ID</key>
+						<string>Titled Text</string>
+						<key>Dont AutoResize</key>
+						<string>NO</string>
+						<key>Field Mode</key>
+						<string>2</string>
+						<key>Fill Background</key>
+						<string>NO</string>
+						<key>FlipX</key>
+						<string>NO</string>
+						<key>FlipY</key>
+						<string>NO</string>
+						<key>Horizontal Alignment</key>
+						<string>1</string>
+						<key>Is Preferred</key>
+						<string>YES</string>
+						<key>Label</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIl5hUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABrxAj
+						CQoTFx4sLS4vMDZFSU1QU1ZZXF9i
+						ZWhrbnJ2d3+AhIqOCZFVJG51bGzU
+						CwwNDg8QERJYTlNTdHJpbmdcTlNB
+						dHRyaWJ1dGVzWk5TRGVsZWdhdGVW
+						JGNsYXNzgAKABIAhgCLSDhQVFllO
+						Uy5zdHJpbmeAA1lGdWxsIE5hbWXS
+						GBkaG1gkY2xhc3Nlc1okY2xhc3Nu
+						YW1loxscHV8QD05TTXV0YWJsZVN0
+						cmluZ1hOU1N0cmluZ1hOU09iamVj
+						dNMfDiAhJidaTlMub2JqZWN0c1dO
+						Uy5rZXlzpCIjJCWACYAagBuAHoAg
+						pCgpKiuABYAGgAeACF8QEE5TUGFy
+						YWdyYXBoU3R5bGVWTlNLZXJuVk5T
+						Rm9udFdOU0NvbG9y0w4xMjM0NVtO
+						U0FsaWdubWVudFpOU1RhYlN0b3Bz
+						gBkQAoAK0g4fNziAGKw5Ojs8PT4/
+						QEFCQ0SAC4ANgA6AD4AQgBGAEoAT
+						gBSAFYAWgBfSRg5HSFpOU0xvY2F0
+						aW9uI0A8AAAAAAAAgAzSGBlKTKJL
+						HVlOU1RleHRUYWJZTlNUZXh0VGFi
+						0kYOTkgjQEwAAAAAAACADNJGDlFI
+						I0BVAAAAAAAAgAzSRg5USCNAXAAA
+						AAAAAIAM0kYOV0gjQGGAAAAAAACA
+						DNJGDlpII0BlAAAAAAAAgAzSRg5d
+						SCNAaIAAAAAAAIAM0kYOYEgjQGwA
+						AAAAAACADNJGDmNII0BvgAAAAAAA
+						gAzSRg5mSCNAcYAAAAAAAIAM0kYO
+						aUgjQHNAAAAAAACADNJGDmxII0B1
+						AAAAAAAAgAzSGBlvcaJwHVdOU0Fy
+						cmF5V05TQXJyYXnSGBlzdKN0dR1f
+						EBdOU011dGFibGVQYXJhZ3JhcGhT
+						dHlsZV8QEE5TUGFyYWdyYXBoU3R5
+						bGUiAAAAANR4Dnl6e3x9flZOU05h
+						bWVWTlNTaXplWE5TZkZsYWdzgByA
+						HSNAJhQ2gAAAABAQWUhlbHZldGlj
+						YdIYGYGDooIdVk5TRm9udFZOU0Zv
+						bnTThYYOh4iJXE5TQ29sb3JTcGFj
+						ZVVOU1JHQhABTxAnMC40Nzk5OTk5
+						ODkzIDAuNDc5OTk5OTg5MyAwLjQ3
+						OTk5OTk4OTMAgB/SGBmLjaKMHVdO
+						U0NvbG9yV05TQ29sb3LSGBmPkKKQ
+						HVxOU0RpY3Rpb25hcnnSGBmSlqST
+						lJUdXU5TVGV4dFN0b3JhZ2VfEBlO
+						U011dGFibGVBdHRyaWJ1dGVkU3Ry
+						aW5nXxASTlNBdHRyaWJ1dGVkU3Ry
+						aW5nXU5TVGV4dFN0b3JhZ2USAAGG
+						oF8QD05TS2V5ZWRBcmNoaXZlcgAI
+						ABEAFgAfACgAMgA1ADoAPABiAGgA
+						cQB6AIcAkgCZAJsAnQCfAKEApgCw
+						ALIAvADBAMoA1QDZAOsA9AD9AQQB
+						DwEXARwBHgEgASIBJAEmASsBLQEv
+						ATEBMwFGAU0BVAFcAWMBbwF6AXwB
+						fgGAAYUBhwGUAZYBmAGaAZwBngGg
+						AaIBpAGmAagBqgGsAbEBvAHFAccB
+						zAHPAdkB4wHoAfEB8wH4AgECAwII
+						AhECEwIYAiECIwIoAjECMwI4AkEC
+						QwJIAlECUwJYAmECYwJoAnECcwJ4
+						AoECgwKIApECkwKYApsCowKrArAC
+						tALOAuEC5gLvAvYC/QMGAwgDCgMT
+						AxUDHwMkAycDLgM1AzwDSQNPA1ED
+						ewN9A4IDhQONA5UDmgOdA6oDrwO0
+						A8ID3gPzBAEEBgAAAAAAAAIBAAAA
+						AAAAAJkAAAAAAAAAAAAAAAAAAAQY
+						</data>
+						<key>Line Number</key>
+						<string>-1</string>
+						<key>Object Representation</key>
+						<string>0</string>
+						<key>Stroke</key>
+						<string>NO</string>
+						<key>Text Category</key>
+						<string>1</string>
+						<key>Text Storage 2</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIlZZUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABrxAj
+						CQoTFx4sLS4vMDRDR0tOUVRXWl1g
+						Y2ZpbHB0en6Gh4uMCY9VJG51bGzU
+						CwwNDg8QERJYTlNTdHJpbmdcTlNB
+						dHRyaWJ1dGVzWk5TRGVsZWdhdGVW
+						JGNsYXNzgAKABIAhgCLSDhQVFllO
+						Uy5zdHJpbmeAA18RAQlTb21ldGhp
+						bmcgaGFzIHRvIGJlIGRvbmUgYWJv
+						dXQgeW91ciBzdG9yYWdlCm1hbmFn
+						ZW1lbnQgY29tcG9uZW50LiBJdCdz
+						IGEgbWVzcyBhbmQgbmVlZHMgCnRv
+						IGJlIHJlZmFjdG9yZWQuCgpCdXJu
+						IGRvd24geW91ciB0aW1lIGFzIHlv
+						dSBub3JtYWxseSB3b3VsZCwKYnV0
+						IGFsc28gdGVsbCB5b3VyIHByb2R1
+						Y3Qgb3duZXIgdG8gYWRkIGEgClRl
+						Y2huaWNhbCBEZWJ0IGl0ZW0gdG8g
+						dGhlIHByb2R1Y3QgYmFja2xvZyAK
+						KCQwIHZhbHVlLCA1IHN0b3J5IHBv
+						aW50cyku0hgZGhtYJGNsYXNzZXNa
+						JGNsYXNzbmFtZaMbHB1fEA9OU011
+						dGFibGVTdHJpbmdYTlNTdHJpbmdY
+						TlNPYmplY3TTHw4gISYnWk5TLm9i
+						amVjdHNXTlMua2V5c6QiIyQlgAmA
+						GoAcgB+AIKQoKSorgAWABoAHgAhf
+						EBBOU1BhcmFncmFwaFN0eWxlV05T
+						Q29sb3JWTlNGb250Vk5TS2VybtIO
+						MTIzWk5TVGFiU3RvcHOAGYAK0g4f
+						NTaAGKw3ODk6Ozw9Pj9AQUKAC4AN
+						gA6AD4AQgBGAEoATgBSAFYAWgBfS
+						RA5FRlpOU0xvY2F0aW9uI0A8AAAA
+						AAAAgAzSGBlISqJJHVlOU1RleHRU
+						YWJZTlNUZXh0VGFi0kQOTEYjQEwA
+						AAAAAACADNJEDk9GI0BVAAAAAAAA
+						gAzSRA5SRiNAXAAAAAAAAIAM0kQO
+						VUYjQGGAAAAAAACADNJEDlhGI0Bl
+						AAAAAAAAgAzSRA5bRiNAaIAAAAAA
+						AIAM0kQOXkYjQGwAAAAAAACADNJE
+						DmFGI0BvgAAAAAAAgAzSRA5kRiNA
+						cYAAAAAAAIAM0kQOZ0YjQHNAAAAA
+						AACADNJEDmpGI0B1AAAAAAAAgAzS
+						GBltb6JuHVdOU0FycmF5V05TQXJy
+						YXnSGBlxcqNycx1fEBdOU011dGFi
+						bGVQYXJhZ3JhcGhTdHlsZV8QEE5T
+						UGFyYWdyYXBoU3R5bGXTdXYOd3h5
+						XE5TQ29sb3JTcGFjZVVOU1JHQhAB
+						TxAaMCAwLjI1MDk4MDQwNyAwLjUw
+						MTk2MDgxNACAG9IYGXt9onwdV05T
+						Q29sb3JXTlNDb2xvctR/DoCBgoOE
+						hVZOU05hbWVWTlNTaXplWE5TZkZs
+						YWdzgB2AHiNAJhQ2gAAAABAQWUhl
+						bHZldGljYdIYGYiKookdVk5TRm9u
+						dFZOU0ZvbnQjAAAAAAAAAADSGBmN
+						jqKOHVxOU0RpY3Rpb25hcnnSGBmQ
+						lKSRkpMdXU5TVGV4dFN0b3JhZ2Vf
+						EBlOU011dGFibGVBdHRyaWJ1dGVk
+						U3RyaW5nXxASTlNBdHRyaWJ1dGVk
+						U3RyaW5nXU5TVGV4dFN0b3JhZ2US
+						AAGGoF8QD05TS2V5ZWRBcmNoaXZl
+						cgAIABEAFgAfACgAMgA1ADoAPABi
+						AGgAcQB6AIcAkgCZAJsAnQCfAKEA
+						pgCwALIBvwHEAc0B2AHcAe4B9wIA
+						AgcCEgIaAh8CIQIjAiUCJwIpAi4C
+						MAIyAjQCNgJJAlECWAJfAmQCbwJx
+						AnMCeAJ6AocCiQKLAo0CjwKRApMC
+						lQKXApkCmwKdAp8CpAKvArgCugK/
+						AsICzALWAtsC5ALmAusC9AL2AvsD
+						BAMGAwsDFAMWAxsDJAMmAysDNAM2
+						AzsDRANGA0sDVANWA1sDZANmA2sD
+						dAN2A3sDhAOGA4sDjgOWA54DowOn
+						A8ED1APbA+gD7gPwBA0EDwQUBBcE
+						HwQnBDAENwQ+BEcESQRLBFQEVgRg
+						BGUEaARvBHYEfwSEBIcElASZBJ4E
+						rATIBN0E6wTwAAAAAAAAAgEAAAAA
+						AAAAlwAAAAAAAAAAAAAAAAAABQI=
+						</data>
+						<key>Text Wrapping Inset</key>
+						<string>0.000</string>
+						<key>Text wrapping</key>
+						<string>3</string>
+					</dict>
+					<key>Linked Text</key>
+					<dict>
+						<key>Address Panel ToFrom</key>
+						<string>YES</string>
+						<key>Address Source</key>
+						<string>1</string>
+						<key>Angle</key>
+						<string>0.000</string>
+						<key>Background Color</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIGBlUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABowkK
+						EVUkbnVsbNMLDA0ODxBcTlNDb2xv
+						clNwYWNlViRjbGFzc1dOU1doaXRl
+						EAOAAkIxANISExQXWCRjbGFzc2Vz
+						WiRjbGFzc25hbWWiFRZXTlNDb2xv
+						clhOU09iamVjdFdOU0NvbG9yEgAB
+						hqBfEA9OU0tleWVkQXJjaGl2ZXII
+						ERYfKDI1OjxARk1aYWlrbXB1fomM
+						lJ2lqgAAAAAAAAEBAAAAAAAAABoA
+						AAAAAAAAAAAAAAAAAAC8
+						</data>
+						<key>Bounds</key>
+						<string>{{4.6800709, 19.557169}, {0, 0}}</string>
+						<key>Class ID</key>
+						<string>Titled Text</string>
+						<key>Dont AutoResize</key>
+						<string>YES</string>
+						<key>Field Mode</key>
+						<string>2</string>
+						<key>Fill Background</key>
+						<string>NO</string>
+						<key>FlipX</key>
+						<string>NO</string>
+						<key>FlipY</key>
+						<string>NO</string>
+						<key>Horizontal Alignment</key>
+						<string>2</string>
+						<key>Is Preferred</key>
+						<string>YES</string>
+						<key>Label</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIhYZUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABrxAe
+						CQoTFx4oKSowP0NHSk1QU1ZZXF9i
+						ZWhsb3d4fAl/VSRudWxs1AsMDQ4P
+						EBESWE5TU3RyaW5nXE5TQXR0cmli
+						dXRlc1pOU0RlbGVnYXRlViRjbGFz
+						c4ACgASAHIAd0g4UFRZZTlMuc3Ry
+						aW5ngANaRnVsbCBOYW1lOtIYGRob
+						WCRjbGFzc2VzWiRjbGFzc25hbWWj
+						GxwdXxAPTlNNdXRhYmxlU3RyaW5n
+						WE5TU3RyaW5nWE5TT2JqZWN00x8O
+						ICEkJVpOUy5vYmplY3RzV05TLmtl
+						eXOiIiOAB4AYgBuiJieABYAGXxAQ
+						TlNQYXJhZ3JhcGhTdHlsZVZOU0Zv
+						bnTTDissLS4vW05TQWxpZ25tZW50
+						Wk5TVGFiU3RvcHOAFxABgAjSDh8x
+						MoAWrDM0NTY3ODk6Ozw9PoAJgAuA
+						DIANgA6AD4AQgBGAEoATgBSAFdJA
+						DkFCWk5TTG9jYXRpb24jQDwAAAAA
+						AACACtIYGURGokUdWU5TVGV4dFRh
+						YllOU1RleHRUYWLSQA5IQiNATAAA
+						AAAAAIAK0kAOS0IjQFUAAAAAAACA
+						CtJADk5CI0BcAAAAAAAAgArSQA5R
+						QiNAYYAAAAAAAIAK0kAOVEIjQGUA
+						AAAAAACACtJADldCI0BogAAAAAAA
+						gArSQA5aQiNAbAAAAAAAAIAK0kAO
+						XUIjQG+AAAAAAACACtJADmBCI0Bx
+						gAAAAAAAgArSQA5jQiNAc0AAAAAA
+						AIAK0kAOZkIjQHUAAAAAAACACtIY
+						GWlromodV05TQXJyYXlXTlNBcnJh
+						edIYGW1uom4dXxAQTlNQYXJhZ3Jh
+						cGhTdHlsZdRwDnFyc3R1dlZOU05h
+						bWVWTlNTaXplWE5TZkZsYWdzgBmA
+						GiNAHAAAAAAAABAQWUhlbHZldGlj
+						YdIYGXl7onodVk5TRm9udFZOU0Zv
+						bnTSGBl9fqJ+HVxOU0RpY3Rpb25h
+						cnnSGBmAhKSBgoMdXU5TVGV4dFN0
+						b3JhZ2VfEBlOU011dGFibGVBdHRy
+						aWJ1dGVkU3RyaW5nXxASTlNBdHRy
+						aWJ1dGVkU3RyaW5nXU5TVGV4dFN0
+						b3JhZ2USAAGGoF8QD05TS2V5ZWRB
+						cmNoaXZlcgAIABEAFgAfACgAMgA1
+						ADoAPABdAGMAbAB1AIIAjQCUAJYA
+						mACaAJwAoQCrAK0AuAC9AMYA0QDV
+						AOcA8AD5AQABCwETARYBGAEaARwB
+						HwEhASMBNgE9AUQBUAFbAV0BXwFh
+						AWYBaAF1AXcBeQF7AX0BfwGBAYMB
+						hQGHAYkBiwGNAZIBnQGmAagBrQGw
+						AboBxAHJAdIB1AHZAeIB5AHpAfIB
+						9AH5AgICBAIJAhICFAIZAiICJAIp
+						AjICNAI5AkICRAJJAlICVAJZAmIC
+						ZAJpAnICdAJ5AnwChAKMApEClAKn
+						ArACtwK+AscCyQLLAtQC1gLgAuUC
+						6ALvAvYC+wL+AwsDEAMVAyMDPwNU
+						A2IDZwAAAAAAAAIBAAAAAAAAAIcA
+						AAAAAAAAAAAAAAAAAAN5
+						</data>
+						<key>Line Number</key>
+						<string>-1</string>
+						<key>Object Representation</key>
+						<string>0</string>
+						<key>Stroke</key>
+						<string>NO</string>
+						<key>Text Category</key>
+						<string>1</string>
+						<key>Text Storage 2::DefValue</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4xAQAAKwAAAAEA
+						AAApAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYxNTA0
+						XGNvY29hc3VicnRmODMwClxjb2Nv
+						YXNjcmVlbmZvbnRzMXtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O30Ke1wqXGV4cGFuZGVk
+						Y29sb3J0Ymw7O30KXHBhcmRcdHg1
+						NjBcdHgxMTIwXHR4MTY4MFx0eDIy
+						NDBcdHgyODAwXHR4MzM2MFx0eDM5
+						MjBcdHg0NDgwXHR4NTA0MFx0eDU2
+						MDBcdHg2MTYwXHR4NjcyMFxwYXJk
+						aXJuYXR1cmFsXHFyCgpcZjBcZnMx
+						NCBcY2YwIE19AQAAACMAAAABAAAA
+						BwAAAFRYVC5ydGYQAAAATMJwWrYB
+						AAAAAAAAAAAAAA==
+						</data>
+						<key>Text Wrapping Inset</key>
+						<string>0.000</string>
+						<key>Text wrapping</key>
+						<string>3</string>
+					</dict>
+					<key>Object Representation</key>
+					<string>0</string>
+					<key>Show Shortening</key>
+					<string>NO</string>
+					<key>Stroke</key>
+					<string>NO</string>
+					<key>Text Category</key>
+					<string>1</string>
+					<key>Text Storage 2::DefValue</key>
+					<data>
+					cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRm
+					AQAAAC5JAQAAKwAAAAEAAABBAQAAe1xydGYx
+					XGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYx
+					NTA0XGNvY29hc3VicnRmODMwClxjb2NvYXNj
+					cmVlbmZvbnRzMXtcZm9udHRibFxmMFxmbmls
+					XGZjaGFyc2V0MCBHZW9yZ2lhO30Ke1xjb2xv
+					cnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUy
+					NTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7
+					fQpccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgw
+					XHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4Mzky
+					MFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYx
+					NjBcdHg2NzIwXHBhcmRpcm5hdHVyYWxccWMK
+					ClxmMFxiXGZzMTYgXGNmMCBcZXhwbmQwXGV4
+					cG5kdHcwXGtlcm5pbmcwCk19AQAAACMAAAAB
+					AAAABwAAAFRYVC5ydGYQAAAATMJwWrYBAAAA
+					AAAAAAAAAA==
+					</data>
+					<key>Text Wrapping Inset</key>
+					<string>0.000</string>
+					<key>Text wrapping</key>
+					<string>3</string>
+				</dict>
+			</array>
+			<key>Horizontal</key>
+			<string>NO</string>
+			<key>Ignore Master Page</key>
+			<string>NO</string>
+			<key>Index Master Page</key>
+			<string>-1</string>
+			<key>Note</key>
+			<string></string>
+			<key>Page Orientation</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Back Components</key>
+			<array/>
+			<key>Comment</key>
+			<string></string>
+			<key>Components</key>
+			<array>
+				<dict>
+					<key>Angle</key>
+					<string>0.000</string>
+					<key>Bounds</key>
+					<string>{{2.3708937, 2.7624629}, {247.63872, 139.07748}}</string>
+					<key>Class ID</key>
+					<string>Filled Square Field</string>
+					<key>Color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlND
+					b2xvclNwYWNlVU5TUkdCViRjbGFzcxABTxAn
+					MC44MDAwMDAwMTE5IDAuODAwMDAwMDExOSAw
+					LjgwMDAwMDAxMTkAgALSEhMUF1gkY2xhc3Nl
+					c1okY2xhc3NuYW1lohUWV05TQ29sb3JYTlNP
+					YmplY3RXTlNDb2xvchIAAYagXxAPTlNLZXll
+					ZEFyY2hpdmVyCBEWHygyNTo8QEZNWmBnaZOV
+					mqOusbnCys8AAAAAAAABAQAAAAAAAAAaAAAA
+					AAAAAAAAAAAAAAAA4Q==
+					</data>
+					<key>Component Type</key>
+					<string>1</string>
+					<key>Curve Radius</key>
+					<string>0.500</string>
+					<key>FT Picture</key>
+					<dict>
+						<key>Angle</key>
+						<string>0.000</string>
+						<key>Bounds</key>
+						<string>{{0, 0}, {0, 0}}</string>
+						<key>Class ID</key>
+						<string>Picture</string>
+						<key>Data Ref</key>
+						<string></string>
+						<key>Fill Background</key>
+						<string>NO</string>
+						<key>FlipX</key>
+						<string>NO</string>
+						<key>FlipY</key>
+						<string>NO</string>
+						<key>Has SrcRect</key>
+						<string>NO</string>
+						<key>Mask</key>
+						<string>NO</string>
+						<key>Mask Data Ref</key>
+						<string></string>
+						<key>Opacity</key>
+						<string>1.000</string>
+						<key>Picture Source</key>
+						<string>0</string>
+						<key>Picture Source State</key>
+						<string>NO</string>
+						<key>Place Mode</key>
+						<string>0</string>
+						<key>Replaceable</key>
+						<string>NO</string>
+						<key>Stroke</key>
+						<string>NO</string>
+						<key>Text Wrapping Inset</key>
+						<string>0.000</string>
+						<key>Text wrapping</key>
+						<string>3</string>
+						<key>Tile Scale</key>
+						<string>7621.000</string>
+					</dict>
+					<key>Fill Background</key>
+					<string>YES</string>
+					<key>Fill Type</key>
+					<string>0</string>
+					<key>Filling Mode</key>
+					<string>0</string>
+					<key>FlipX</key>
+					<string>NO</string>
+					<key>FlipY</key>
+					<string>NO</string>
+					<key>Outline Color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlND
+					b2xvclNwYWNlVU5TUkdCViRjbGFzcxABTxAa
+					MCAwLjI1MDk4MDQwNyAwLjUwMTk2MDgxNACA
+					AtISExQXWCRjbGFzc2VzWiRjbGFzc25hbWWi
+					FRZXTlNDb2xvclhOU09iamVjdFdOU0NvbG9y
+					EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIIERYf
+					KDI1OjxARk1aYGdphoiNlqGkrLW9wgAAAAAA
+					AAEBAAAAAAAAABoAAAAAAAAAAAAAAAAAAADU
+					</data>
+					<key>Pen Width</key>
+					<string>1.00,0</string>
+					<key>Side Count</key>
+					<string>5.000</string>
+					<key>Stroke</key>
+					<string>YES</string>
+					<key>Text Wrapping Inset</key>
+					<string>0.000</string>
+					<key>Text wrapping</key>
+					<string>3</string>
+				</dict>
+				<dict>
+					<key>Address Panel ToFrom</key>
+					<string>YES</string>
+					<key>Address Source</key>
+					<string>1</string>
+					<key>Angle</key>
+					<string>0.000</string>
+					<key>Background Color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlND
+					b2xvclNwYWNlVU5TUkdCViRjbGFzcxABRjAg
+					MCAwAIAC0hITFBdYJGNsYXNzZXNaJGNsYXNz
+					bmFtZaIVFldOU0NvbG9yWE5TT2JqZWN0V05T
+					Q29sb3ISAAGGoF8QD05TS2V5ZWRBcmNoaXZl
+					cggRFh8oMjU6PEBGTVpgZ2lwcneAi46Wn6es
+					AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAA
+					AAAAAL4=
+					</data>
+					<key>Bounds</key>
+					<string>{{53.733994, 53.106617}, {148.21875, 29}}</string>
+					<key>Class ID</key>
+					<string>Titled Text</string>
+					<key>Dont AutoResize</key>
+					<string>NO</string>
+					<key>Field Mode</key>
+					<string>2</string>
+					<key>Fill Background</key>
+					<string>NO</string>
+					<key>FlipX</key>
+					<string>NO</string>
+					<key>FlipY</key>
+					<string>NO</string>
+					<key>Horizontal Alignment</key>
+					<string>0</string>
+					<key>Is Preferred</key>
+					<string>YES</string>
+					<key>Label</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIlpdUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABrxAiCQoTFx4qKywtMzc/QERKWV1h
+					ZGdqbXBzdnl8f4KGiY0JkFUkbnVsbNQLDA0O
+					DxARElhOU1N0cmluZ1xOU0F0dHJpYnV0ZXNa
+					TlNEZWxlZ2F0ZVYkY2xhc3OAAoAEgCCAIdIO
+					FBUWWU5TLnN0cmluZ4ADW1NpbXBsZSBUZXh0
+					0hgZGhtYJGNsYXNzZXNaJGNsYXNzbmFtZaMb
+					HB1fEA9OU011dGFibGVTdHJpbmdYTlNTdHJp
+					bmdYTlNPYmplY3TTHw4gISUmWk5TLm9iamVj
+					dHNXTlMua2V5c6MiIySACIAKgA2AH6MnKCmA
+					BYAGgAdXTlNDb2xvclZOU0ZvbnRfEBBOU1Bh
+					cmFncmFwaFN0eWxl0y4vDjAxMlxOU0NvbG9y
+					U3BhY2VVTlNSR0IQAU8QJzAuNDc5OTk5OTg5
+					MyAwLjQ3OTk5OTk4OTMgMC40Nzk5OTk5ODkz
+					AIAJ0hgZNDaiNR1XTlNDb2xvcldOU0NvbG9y
+					1DgOOTo7PD0+Vk5TTmFtZVZOU1NpemVYTlNm
+					RmxhZ3OAC4AMI0AiAAAAAAAAEBBZSGVsdmV0
+					aWNh0hgZQUOiQh1WTlNGb250Vk5TRm9udNNF
+					Rg5HSElbTlNUZXh0TGlzdHNaTlNUYWJTdG9w
+					c4AdgA6AHtIOH0tMgBysTU5PUFFSU1RVVldY
+					gA+AEYASgBOAFIAVgBaAF4AYgBmAGoAb0loO
+					W1xaTlNMb2NhdGlvbiNAPAAAAAAAAIAQ0hgZ
+					XmCiXx1ZTlNUZXh0VGFiWU5TVGV4dFRhYtJa
+					DmJcI0BMAAAAAAAAgBDSWg5lXCNAVQAAAAAA
+					AIAQ0loOaFwjQFwAAAAAAACAENJaDmtcI0Bh
+					gAAAAAAAgBDSWg5uXCNAZQAAAAAAAIAQ0loO
+					cVwjQGiAAAAAAACAENJaDnRcI0BsAAAAAAAA
+					gBDSWg53XCNAb4AAAAAAAIAQ0loOelwjQHGA
+					AAAAAACAENJaDn1cI0BzQAAAAAAAgBDSWg6A
+					XCNAdQAAAAAAAIAQ0hgZg4WihB1XTlNBcnJh
+					eVdOU0FycmF50g4fS4iAHKDSGBmKi6OLjB1f
+					EBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZV8Q
+					EE5TUGFyYWdyYXBoU3R5bGXSGBmOj6KPHVxO
+					U0RpY3Rpb25hcnnSGBmRlaSSk5QdXU5TVGV4
+					dFN0b3JhZ2VfEBlOU011dGFibGVBdHRyaWJ1
+					dGVkU3RyaW5nXxASTlNBdHRyaWJ1dGVkU3Ry
+					aW5nXU5TVGV4dFN0b3JhZ2USAAGGoF8QD05T
+					S2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1
+					ADoAPABhAGcAcAB5AIYAkQCYAJoAnACeAKAA
+					pQCvALEAvQDCAMsA1gDaAOwA9QD+AQUBEAEY
+					ARwBHgEgASIBJAEoASoBLAEuATYBPQFQAVcB
+					ZAFqAWwBlgGYAZ0BoAGoAbABuQHAAccB0AHS
+					AdQB3QHfAekB7gHxAfgB/wIGAhICHQIfAiEC
+					IwIoAioCNwI5AjsCPQI/AkECQwJFAkcCSQJL
+					Ak0CTwJUAl8CaAJqAm8CcgJ8AoYCiwKUApYC
+					mwKkAqYCqwK0ArYCuwLEAsYCywLUAtYC2wLk
+					AuYC6wL0AvYC+wMEAwYDCwMUAxYDGwMkAyYD
+					KwM0AzYDOwM+A0YDTgNTA1UDVgNbA18DeQOM
+					A5EDlAOhA6YDqwO5A9UD6gP4A/0AAAAAAAAC
+					AQAAAAAAAACYAAAAAAAAAAAAAAAAAAAEDw==
+					</data>
+					<key>Line Number</key>
+					<string>-1</string>
+					<key>Linked Data</key>
+					<dict>
+						<key>Address Panel ToFrom</key>
+						<string>YES</string>
+						<key>Address Source</key>
+						<string>1</string>
+						<key>Angle</key>
+						<string>0.000</string>
+						<key>Background Color</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIGBlUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABowkK
+						EVUkbnVsbNMLDA0ODxBcTlNDb2xv
+						clNwYWNlVU5TUkdCViRjbGFzcxAB
+						RjAgMCAwAIAC0hITFBdYJGNsYXNz
+						ZXNaJGNsYXNzbmFtZaIVFldOU0Nv
+						bG9yWE5TT2JqZWN0V05TQ29sb3IS
+						AAGGoF8QD05TS2V5ZWRBcmNoaXZl
+						cggRFh8oMjU6PEBGTVpgZ2lwcneA
+						i46Wn6esAAAAAAAAAQEAAAAAAAAA
+						GgAAAAAAAAAAAAAAAAAAAL4=
+						</data>
+						<key>Bounds</key>
+						<string>{{53.733994, 53.106617}, {148.21875, 29}}</string>
+						<key>Class ID</key>
+						<string>Titled Text</string>
+						<key>Dont AutoResize</key>
+						<string>NO</string>
+						<key>Field Mode</key>
+						<string>2</string>
+						<key>Fill Background</key>
+						<string>NO</string>
+						<key>FlipX</key>
+						<string>NO</string>
+						<key>FlipY</key>
+						<string>NO</string>
+						<key>Horizontal Alignment</key>
+						<string>0</string>
+						<key>Is Preferred</key>
+						<string>YES</string>
+						<key>Label</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIlpdUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABrxAi
+						CQoTFx4qKywtMzc9TFBUV1pdYGNm
+						aWxvcnV5fICIiY0JkFUkbnVsbNQL
+						DA0ODxARElhOU1N0cmluZ1xOU0F0
+						dHJpYnV0ZXNaTlNEZWxlZ2F0ZVYk
+						Y2xhc3OAAoAEgCCAIdIOFBUWWU5T
+						LnN0cmluZ4ADVkN1c3RvbdIYGRob
+						WCRjbGFzc2VzWiRjbGFzc25hbWWj
+						GxwdXxAPTlNNdXRhYmxlU3RyaW5n
+						WE5TU3RyaW5nWE5TT2JqZWN00x8O
+						ICElJlpOUy5vYmplY3RzV05TLmtl
+						eXOjIiMkgAiACoAcgB+jJygpgAWA
+						BoAHV05TQ29sb3JfEBBOU1BhcmFn
+						cmFwaFN0eWxlVk5TRm9udNMuLw4w
+						MTJcTlNDb2xvclNwYWNlVU5TUkdC
+						EAFPECcwLjQ3OTk5OTk4OTMgMC40
+						Nzk5OTk5ODkzIDAuNDc5OTk5OTg5
+						MwCACdIYGTQ2ojUdV05TQ29sb3JX
+						TlNDb2xvctM4OQ46OzxbTlNUZXh0
+						TGlzdHNaTlNUYWJTdG9wc4AagAuA
+						G9IOHz4/gBmsQEFCQ0RFRkdISUpL
+						gAyADoAPgBCAEYASgBOAFIAVgBaA
+						F4AY0k0OTk9aTlNMb2NhdGlvbiNA
+						PAAAAAAAAIAN0hgZUVOiUh1ZTlNU
+						ZXh0VGFiWU5TVGV4dFRhYtJNDlVP
+						I0BMAAAAAAAAgA3STQ5YTyNAVQAA
+						AAAAAIAN0k0OW08jQFwAAAAAAACA
+						DdJNDl5PI0BhgAAAAAAAgA3STQ5h
+						TyNAZQAAAAAAAIAN0k0OZE8jQGiA
+						AAAAAACADdJNDmdPI0BsAAAAAAAA
+						gA3STQ5qTyNAb4AAAAAAAIAN0k0O
+						bU8jQHGAAAAAAACADdJNDnBPI0Bz
+						QAAAAAAAgA3STQ5zTyNAdQAAAAAA
+						AIAN0hgZdniidx1XTlNBcnJheVdO
+						U0FycmF50g4fPnuAGaDSGBl9fqN+
+						fx1fEBdOU011dGFibGVQYXJhZ3Jh
+						cGhTdHlsZV8QEE5TUGFyYWdyYXBo
+						U3R5bGXUgQ6Cg4SFhodWTlNOYW1l
+						Vk5TU2l6ZVhOU2ZGbGFnc4AdgB4j
+						QDgAAAAAAAAQEFxDYWxpYnJpLUJv
+						bGTSGBmKjKKLHVZOU0ZvbnRWTlNG
+						b2500hgZjo+ijx1cTlNEaWN0aW9u
+						YXJ50hgZkZWkkpOUHV1OU1RleHRT
+						dG9yYWdlXxAZTlNNdXRhYmxlQXR0
+						cmlidXRlZFN0cmluZ18QEk5TQXR0
+						cmlidXRlZFN0cmluZ11OU1RleHRT
+						dG9yYWdlEgABhqBfEA9OU0tleWVk
+						QXJjaGl2ZXIACAARABYAHwAoADIA
+						NQA6ADwAYQBnAHAAeQCGAJEAmACa
+						AJwAngCgAKUArwCxALgAvQDGANEA
+						1QDnAPAA+QEAAQsBEwEXARkBGwEd
+						AR8BIwElAScBKQExAUQBSwFSAV8B
+						ZQFnAZEBkwGYAZsBowGrAbIBvgHJ
+						AcsBzQHPAdQB1gHjAeUB5wHpAesB
+						7QHvAfEB8wH1AfcB+QH7AgACCwIU
+						AhYCGwIeAigCMgI3AkACQgJHAlAC
+						UgJXAmACYgJnAnACcgJ3AoACggKH
+						ApACkgKXAqACogKnArACsgK3AsAC
+						wgLHAtAC0gLXAuAC4gLnAuoC8gL6
+						Av8DAQMCAwcDCwMlAzgDQQNIA08D
+						WANaA1wDZQNnA3QDeQN8A4MDigOP
+						A5IDnwOkA6kDtwPTA+gD9gP7AAAA
+						AAAAAgEAAAAAAAAAmAAAAAAAAAAA
+						AAAAAAAABA0=
+						</data>
+						<key>Line Number</key>
+						<string>-1</string>
+						<key>Object Representation</key>
+						<string>0</string>
+						<key>Stroke</key>
+						<string>NO</string>
+						<key>Text Category</key>
+						<string>12</string>
+						<key>Text Storage 2</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIlpdUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABrxAi
+						CQoTFx4qKywtMzc9TFBUV1pdYGNm
+						aWxvcnV5fICIiY0JkFUkbnVsbNQL
+						DA0ODxARElhOU1N0cmluZ1xOU0F0
+						dHJpYnV0ZXNaTlNEZWxlZ2F0ZVYk
+						Y2xhc3OAAoAEgCCAIdIOFBUWWU5T
+						LnN0cmluZ4ADXGhhcHBlbmNoYW5j
+						ZdIYGRobWCRjbGFzc2VzWiRjbGFz
+						c25hbWWjGxwdXxAPTlNNdXRhYmxl
+						U3RyaW5nWE5TU3RyaW5nWE5TT2Jq
+						ZWN00x8OICElJlpOUy5vYmplY3Rz
+						V05TLmtleXOjIiMkgAiACoAcgB+j
+						JygpgAWABoAHV05TQ29sb3JfEBBO
+						U1BhcmFncmFwaFN0eWxlVk5TRm9u
+						dNMuLw4wMTJcTlNDb2xvclNwYWNl
+						VU5TUkdCEAFPEBowIDAuMjUwOTgw
+						NDA3IDAuNTAxOTYwODE0AIAJ0hgZ
+						NDaiNR1XTlNDb2xvcldOU0NvbG9y
+						0zg5Djo7PFtOU1RleHRMaXN0c1pO
+						U1RhYlN0b3BzgBqAC4Ab0g4fPj+A
+						GaxAQUJDREVGR0hJSkuADIAOgA+A
+						EIARgBKAE4AUgBWAFoAXgBjSTQ5O
+						T1pOU0xvY2F0aW9uI0A8AAAAAAAA
+						gA3SGBlRU6JSHVlOU1RleHRUYWJZ
+						TlNUZXh0VGFi0k0OVU8jQEwAAAAA
+						AACADdJNDlhPI0BVAAAAAAAAgA3S
+						TQ5bTyNAXAAAAAAAAIAN0k0OXk8j
+						QGGAAAAAAACADdJNDmFPI0BlAAAA
+						AAAAgA3STQ5kTyNAaIAAAAAAAIAN
+						0k0OZ08jQGwAAAAAAACADdJNDmpP
+						I0BvgAAAAAAAgA3STQ5tTyNAcYAA
+						AAAAAIAN0k0OcE8jQHNAAAAAAACA
+						DdJNDnNPI0B1AAAAAAAAgA3SGBl2
+						eKJ3HVdOU0FycmF5V05TQXJyYXnS
+						Dh8+e4AZoNIYGX1+o35/HV8QF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						XxAQTlNQYXJhZ3JhcGhTdHlsZdSB
+						DoKDhIWGh1ZOU05hbWVWTlNTaXpl
+						WE5TZkZsYWdzgB2AHiNAOAAAAAAA
+						ABAQXENhbGlicmktQm9sZNIYGYqM
+						oosdVk5TRm9udFZOU0ZvbnTSGBmO
+						j6KPHVxOU0RpY3Rpb25hcnnSGBmR
+						laSSk5QdXU5TVGV4dFN0b3JhZ2Vf
+						EBlOU011dGFibGVBdHRyaWJ1dGVk
+						U3RyaW5nXxASTlNBdHRyaWJ1dGVk
+						U3RyaW5nXU5TVGV4dFN0b3JhZ2US
+						AAGGoF8QD05TS2V5ZWRBcmNoaXZl
+						cgAIABEAFgAfACgAMgA1ADoAPABh
+						AGcAcAB5AIYAkQCYAJoAnACeAKAA
+						pQCvALEAvgDDAMwA1wDbAO0A9gD/
+						AQYBEQEZAR0BHwEhASMBJQEpASsB
+						LQEvATcBSgFRAVgBZQFrAW0BigGM
+						AZEBlAGcAaQBqwG3AcIBxAHGAcgB
+						zQHPAdwB3gHgAeIB5AHmAegB6gHs
+						Ae4B8AHyAfQB+QIEAg0CDwIUAhcC
+						IQIrAjACOQI7AkACSQJLAlACWQJb
+						AmACaQJrAnACeQJ7AoACiQKLApAC
+						mQKbAqACqQKrArACuQK7AsACyQLL
+						AtAC2QLbAuAC4wLrAvMC+AL6AvsD
+						AAMEAx4DMQM6A0EDSANRA1MDVQNe
+						A2ADbQNyA3UDfAODA4gDiwOYA50D
+						ogOwA8wD4QPvA/QAAAAAAAACAQAA
+						AAAAAACYAAAAAAAAAAAAAAAAAAAE
+						Bg==
+						</data>
+						<key>Text Wrapping Inset</key>
+						<string>0.000</string>
+						<key>Text wrapping</key>
+						<string>3</string>
+					</dict>
+					<key>Linked Text</key>
+					<dict>
+						<key>Address Panel ToFrom</key>
+						<string>YES</string>
+						<key>Address Source</key>
+						<string>1</string>
+						<key>Angle</key>
+						<string>0.000</string>
+						<key>Background Color</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIGBlUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABowkK
+						EVUkbnVsbNMLDA0ODxBcTlNDb2xv
+						clNwYWNlVU5TUkdCViRjbGFzcxAB
+						RjAgMCAwAIAC0hITFBdYJGNsYXNz
+						ZXNaJGNsYXNzbmFtZaIVFldOU0Nv
+						bG9yWE5TT2JqZWN0V05TQ29sb3IS
+						AAGGoF8QD05TS2V5ZWRBcmNoaXZl
+						cggRFh8oMjU6PEBGTVpgZ2lwcneA
+						i46Wn6esAAAAAAAAAQEAAAAAAAAA
+						GgAAAAAAAAAAAAAAAAAAAL4=
+						</data>
+						<key>Bounds</key>
+						<string>{{53.733994, 67.106613}, {0, 0}}</string>
+						<key>Class ID</key>
+						<string>Titled Text</string>
+						<key>Dont AutoResize</key>
+						<string>NO</string>
+						<key>Field Mode</key>
+						<string>2</string>
+						<key>Fill Background</key>
+						<string>NO</string>
+						<key>FlipX</key>
+						<string>NO</string>
+						<key>FlipY</key>
+						<string>NO</string>
+						<key>Horizontal Alignment</key>
+						<string>2</string>
+						<key>Is Preferred</key>
+						<string>YES</string>
+						<key>Label</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIVldUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABrxAS
+						CQoTFx4qKywtMzc8QEhJTQlQVSRu
+						dWxs1AsMDQ4PEBESWE5TU3RyaW5n
+						XE5TQXR0cmlidXRlc1pOU0RlbGVn
+						YXRlViRjbGFzc4ACgASAEIAR0g4U
+						FRZZTlMuc3RyaW5ngANXQ3VzdG9t
+						OtIYGRobWCRjbGFzc2VzWiRjbGFz
+						c25hbWWjGxwdXxAPTlNNdXRhYmxl
+						U3RyaW5nWE5TU3RyaW5nWE5TT2Jq
+						ZWN00x8OICElJlpOUy5vYmplY3Rz
+						V05TLmtleXOjIiMkgAiACoAMgA+j
+						JygpgAWABoAHV05TQ29sb3JfEBBO
+						U1BhcmFncmFwaFN0eWxlVk5TRm9u
+						dNMuLw4wMTJcTlNDb2xvclNwYWNl
+						VU5TUkdCEAFPECcwLjQ3OTk5OTk4
+						OTMgMC40Nzk5OTk5ODkzIDAuNDc5
+						OTk5OTg5MwCACdIYGTQ2ojUdV05T
+						Q29sb3JXTlNDb2xvctMOODk6MDtb
+						TlNBbGlnbm1lbnRaTlNUYWJTdG9w
+						c4ALgADSGBk9PqM+Px1fEBdOU011
+						dGFibGVQYXJhZ3JhcGhTdHlsZV8Q
+						EE5TUGFyYWdyYXBoU3R5bGXUQQ5C
+						Q0RFRkdWTlNOYW1lVk5TU2l6ZVhO
+						U2ZGbGFnc4ANgA4jQCIAAAAAAAAQ
+						EFlIZWx2ZXRpY2HSGBlKTKJLHVZO
+						U0ZvbnRWTlNGb2500hgZTk+iTx1c
+						TlNEaWN0aW9uYXJ50hgZUVWkUlNU
+						HV1OU1RleHRTdG9yYWdlXxAZTlNN
+						dXRhYmxlQXR0cmlidXRlZFN0cmlu
+						Z18QEk5TQXR0cmlidXRlZFN0cmlu
+						Z11OU1RleHRTdG9yYWdlEgABhqBf
+						EA9OU0tleWVkQXJjaGl2ZXIACAAR
+						ABYAHwAoADIANQA6ADwAUQBXAGAA
+						aQB2AIEAiACKAIwAjgCQAJUAnwCh
+						AKkArgC3AMIAxgDYAOEA6gDxAPwB
+						BAEIAQoBDAEOARABFAEWARgBGgEi
+						ATUBPAFDAVABVgFYAYIBhAGJAYwB
+						lAGcAaMBrwG6AbwBvgHDAccB4QH0
+						Af0CBAILAhQCFgIYAiECIwItAjIC
+						NQI8AkMCSAJLAlgCXQJiAnACjAKh
+						Aq8CtAAAAAAAAAIBAAAAAAAAAFgA
+						AAAAAAAAAAAAAAAAAALG
+						</data>
+						<key>Line Number</key>
+						<string>-1</string>
+						<key>Object Representation</key>
+						<string>0</string>
+						<key>Stroke</key>
+						<string>NO</string>
+						<key>Text Category</key>
+						<string>12</string>
+						<key>Text Storage 2::DefValue</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4xAQAAKwAAAAEA
+						AAApAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYxNTA0
+						XGNvY29hc3VicnRmODMwClxjb2Nv
+						YXNjcmVlbmZvbnRzMXtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O30Ke1wqXGV4cGFuZGVk
+						Y29sb3J0Ymw7O30KXHBhcmRcdHg1
+						NjBcdHgxMTIwXHR4MTY4MFx0eDIy
+						NDBcdHgyODAwXHR4MzM2MFx0eDM5
+						MjBcdHg0NDgwXHR4NTA0MFx0eDU2
+						MDBcdHg2MTYwXHR4NjcyMFxwYXJk
+						aXJuYXR1cmFsXHFyCgpcZjBcZnMx
+						OCBcY2YwIE19AQAAACMAAAABAAAA
+						BwAAAFRYVC5ydGYQAAAATMJwWrYB
+						AAAAAAAAAAAAAA==
+						</data>
+						<key>Text Wrapping Inset</key>
+						<string>0.000</string>
+						<key>Text wrapping</key>
+						<string>3</string>
+					</dict>
+					<key>Object Representation</key>
+					<string>0</string>
+					<key>Show Shortening</key>
+					<string>NO</string>
+					<key>Stroke</key>
+					<string>NO</string>
+					<key>Text Category</key>
+					<string>128</string>
+					<key>Text Storage 2::DefValue</key>
+					<data>
+					cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRm
+					AQAAAC4uAQAAKwAAAAEAAAAmAQAAe1xydGYx
+					XGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYx
+					NTA0XGNvY29hc3VicnRmODMwClxjb2NvYXNj
+					cmVlbmZvbnRzMXtcZm9udHRibFxmMFxmc3dp
+					c3NcZmNoYXJzZXQwIEhlbHZldGljYTt9Cntc
+					Y29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+					bHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0
+					Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4
+					MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0
+					eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBc
+					dHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFs
+					CgpcZjBcZnMxOCBcY2YwIE19AQAAACMAAAAB
+					AAAABwAAAFRYVC5ydGYQAAAATMJwWrYBAAAA
+					AAAAAAAAAA==
+					</data>
+					<key>Text Wrapping Inset</key>
+					<string>0.000</string>
+					<key>Text wrapping</key>
+					<string>3</string>
+				</dict>
+				<dict>
+					<key>Address Panel ToFrom</key>
+					<string>YES</string>
+					<key>Address Source</key>
+					<string>1</string>
+					<key>Angle</key>
+					<string>0.000</string>
+					<key>Background Color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlND
+					b2xvclNwYWNlViRjbGFzc1dOU1doaXRlEAOA
+					AkIxANISExQXWCRjbGFzc2VzWiRjbGFzc25h
+					bWWiFRZXTlNDb2xvclhOU09iamVjdFdOU0Nv
+					bG9yEgABhqBfEA9OU0tleWVkQXJjaGl2ZXII
+					ERYfKDI1OjxARk1aYWlrbXB1fomMlJ2lqgAA
+					AAAAAAEBAAAAAAAAABoAAAAAAAAAAAAAAAAA
+					AAC8
+					</data>
+					<key>Bounds</key>
+					<string>{{23.057098, 129.12833}, {205.72314, 9}}</string>
+					<key>Class ID</key>
+					<string>Titled Text</string>
+					<key>Dont AutoResize</key>
+					<string>NO</string>
+					<key>Field Mode</key>
+					<string>2</string>
+					<key>Fill Background</key>
+					<string>NO</string>
+					<key>FlipX</key>
+					<string>NO</string>
+					<key>FlipY</key>
+					<string>NO</string>
+					<key>Horizontal Alignment</key>
+					<string>0</string>
+					<key>Is Preferred</key>
+					<string>YES</string>
+					<key>Label</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUIn6BUJHRvcFgkb2Jq
+					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
+					cm9vdIABrxAkCQoTFx4qKywtNTg8QEhJTVNi
+					ZmptcHN2eXx/goWIi4+SlgmZVSRudWxs1AsM
+					DQ4PEBESWE5TU3RyaW5nXE5TQXR0cmlidXRl
+					c1pOU0RlbGVnYXRlViRjbGFzc4ACgASAIoAj
+					0g4UFRZZTlMuc3RyaW5ngANbU2ltcGxlIFRl
+					eHTSGBkaG1gkY2xhc3Nlc1okY2xhc3NuYW1l
+					oxscHV8QD05TTXV0YWJsZVN0cmluZ1hOU1N0
+					cmluZ1hOU09iamVjdNMfDiAhJSZaTlMub2Jq
+					ZWN0c1dOUy5rZXlzoyIjJIAIgAyAD4Ahoyco
+					KYAFgAaAB1dOU0NvbG9yVk5TRm9udF8QEE5T
+					UGFyYWdyYXBoU3R5bGXULg4vMDEyMzRfEBJO
+					U0N1c3RvbUNvbG9yU3BhY2VcTlNDb2xvclNw
+					YWNlVU5TUkdCgAmACxABTxAnMC40Nzk5OTk5
+					ODkzIDAuNDc5OTk5OTg5MyAwLjQ3OTk5OTk4
+					OTMA0jYOMzdUTlNJRIAK0hgZOTuiOh1cTlND
+					b2xvclNwYWNlXE5TQ29sb3JTcGFjZdIYGT0/
+					oj4dV05TQ29sb3JXTlNDb2xvctRBDkJDREVG
+					R1ZOU05hbWVWTlNTaXplWE5TZkZsYWdzgA2A
+					DiNAKAAAAAAAABAQWUhlbHZldGljYdIYGUpM
+					oksdVk5TRm9udFZOU0ZvbnTTTk8OUFFSW05T
+					VGV4dExpc3RzWk5TVGFiU3RvcHOAH4AQgCDS
+					Dh9UVYAerFZXWFlaW1xdXl9gYYARgBOAFIAV
+					gBaAF4AYgBmAGoAbgByAHdJjDmRlWk5TTG9j
+					YXRpb24jQDwAAAAAAACAEtIYGWdpomgdWU5T
+					VGV4dFRhYllOU1RleHRUYWLSYw5rZSNATAAA
+					AAAAAIAS0mMObmUjQFUAAAAAAACAEtJjDnFl
+					I0BcAAAAAAAAgBLSYw50ZSNAYYAAAAAAAIAS
+					0mMOd2UjQGUAAAAAAACAEtJjDnplI0BogAAA
+					AAAAgBLSYw59ZSNAbAAAAAAAAIAS0mMOgGUj
+					QG+AAAAAAACAEtJjDoNlI0BxgAAAAAAAgBLS
+					Yw6GZSNAc0AAAAAAAIAS0mMOiWUjQHUAAAAA
+					AACAEtIYGYyOoo0dV05TQXJyYXlXTlNBcnJh
+					edIOH1SRgB6g0hgZk5SjlJUdXxAXTlNNdXRh
+					YmxlUGFyYWdyYXBoU3R5bGVfEBBOU1BhcmFn
+					cmFwaFN0eWxl0hgZl5iimB1cTlNEaWN0aW9u
+					YXJ50hgZmp6km5ydHV1OU1RleHRTdG9yYWdl
+					XxAZTlNNdXRhYmxlQXR0cmlidXRlZFN0cmlu
+					Z18QEk5TQXR0cmlidXRlZFN0cmluZ11OU1Rl
+					eHRTdG9yYWdlEgABhqBfEA9OU0tleWVkQXJj
+					aGl2ZXIACAARABYAHwAoADIANQA6ADwAYwBp
+					AHIAewCIAJMAmgCcAJ4AoACiAKcAsQCzAL8A
+					xADNANgA3ADuAPcBAAEHARIBGgEeASABIgEk
+					ASYBKgEsAS4BMAE4AT8BUgFbAXABfQGDAYUB
+					hwGJAbMBuAG9Ab8BxAHHAdQB4QHmAekB8QH5
+					AgICCQIQAhkCGwIdAiYCKAIyAjcCOgJBAkgC
+					TwJbAmYCaAJqAmwCcQJzAoACggKEAoYCiAKK
+					AowCjgKQApIClAKWApgCnQKoArECswK4ArsC
+					xQLPAtQC3QLfAuQC7QLvAvQC/QL/AwQDDQMP
+					AxQDHQMfAyQDLQMvAzQDPQM/A0QDTQNPA1QD
+					XQNfA2QDbQNvA3QDfQN/A4QDhwOPA5cDnAOe
+					A58DpAOoA8ID1QPaA90D6gPvA/QEAgQeBDME
+					QQRGAAAAAAAAAgEAAAAAAAAAoQAAAAAAAAAA
+					AAAAAAAABFg=
+					</data>
+					<key>Line Number</key>
+					<string>-1</string>
+					<key>Linked Data</key>
+					<dict>
+						<key>Address Panel ToFrom</key>
+						<string>YES</string>
+						<key>Address Source</key>
+						<string>1</string>
+						<key>Angle</key>
+						<string>0.000</string>
+						<key>Background Color</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIGBlUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABowkK
+						EVUkbnVsbNMLDA0ODxBcTlNDb2xv
+						clNwYWNlViRjbGFzc1dOU1doaXRl
+						EAOAAkIxANISExQXWCRjbGFzc2Vz
+						WiRjbGFzc25hbWWiFRZXTlNDb2xv
+						clhOU09iamVjdFdOU0NvbG9yEgAB
+						hqBfEA9OU0tleWVkQXJjaGl2ZXII
+						ERYfKDI1OjxARk1aYWlrbXB1fomM
+						lJ2lqgAAAAAAAAEBAAAAAAAAABoA
+						AAAAAAAAAAAAAAAAAAC8
+						</data>
+						<key>Bounds</key>
+						<string>{{23.057098, 129.12833}, {205.72314, 9}}</string>
+						<key>Class ID</key>
+						<string>Titled Text</string>
+						<key>Dont AutoResize</key>
+						<string>NO</string>
+						<key>Field Mode</key>
+						<string>2</string>
+						<key>Fill Background</key>
+						<string>NO</string>
+						<key>FlipX</key>
+						<string>NO</string>
+						<key>FlipY</key>
+						<string>NO</string>
+						<key>Horizontal Alignment</key>
+						<string>0</string>
+						<key>Is Preferred</key>
+						<string>YES</string>
+						<key>Label</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIn6BUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABrxAk
+						CQoTFx4qKywtNTg8QEhJTVNiZmpt
+						cHN2eXx/goWIi4+SlgmZVSRudWxs
+						1AsMDQ4PEBESWE5TU3RyaW5nXE5T
+						QXR0cmlidXRlc1pOU0RlbGVnYXRl
+						ViRjbGFzc4ACgASAIoAj0g4UFRZZ
+						TlMuc3RyaW5ngANbU2ltcGxlIFRl
+						eHTSGBkaG1gkY2xhc3Nlc1okY2xh
+						c3NuYW1loxscHV8QD05TTXV0YWJs
+						ZVN0cmluZ1hOU1N0cmluZ1hOU09i
+						amVjdNMfDiAhJSZaTlMub2JqZWN0
+						c1dOUy5rZXlzoyIjJIAIgAyAD4Ah
+						oycoKYAFgAaAB1dOU0NvbG9yVk5T
+						Rm9udF8QEE5TUGFyYWdyYXBoU3R5
+						bGXULg4vMDEyMzRfEBJOU0N1c3Rv
+						bUNvbG9yU3BhY2VcTlNDb2xvclNw
+						YWNlVU5TUkdCgAmACxABTxAnMC40
+						Nzk5OTk5ODkzIDAuNDc5OTk5OTg5
+						MyAwLjQ3OTk5OTk4OTMA0jYOMzdU
+						TlNJRIAK0hgZOTuiOh1cTlNDb2xv
+						clNwYWNlXE5TQ29sb3JTcGFjZdIY
+						GT0/oj4dV05TQ29sb3JXTlNDb2xv
+						ctRBDkJDREVGR1ZOU05hbWVWTlNT
+						aXplWE5TZkZsYWdzgA2ADiNAKAAA
+						AAAAABAQWUhlbHZldGljYdIYGUpM
+						oksdVk5TRm9udFZOU0ZvbnTTTk8O
+						UFFSW05TVGV4dExpc3RzWk5TVGFi
+						U3RvcHOAH4AQgCDSDh9UVYAerFZX
+						WFlaW1xdXl9gYYARgBOAFIAVgBaA
+						F4AYgBmAGoAbgByAHdJjDmRlWk5T
+						TG9jYXRpb24jQDwAAAAAAACAEtIY
+						GWdpomgdWU5TVGV4dFRhYllOU1Rl
+						eHRUYWLSYw5rZSNATAAAAAAAAIAS
+						0mMObmUjQFUAAAAAAACAEtJjDnFl
+						I0BcAAAAAAAAgBLSYw50ZSNAYYAA
+						AAAAAIAS0mMOd2UjQGUAAAAAAACA
+						EtJjDnplI0BogAAAAAAAgBLSYw59
+						ZSNAbAAAAAAAAIAS0mMOgGUjQG+A
+						AAAAAACAEtJjDoNlI0BxgAAAAAAA
+						gBLSYw6GZSNAc0AAAAAAAIAS0mMO
+						iWUjQHUAAAAAAACAEtIYGYyOoo0d
+						V05TQXJyYXlXTlNBcnJhedIOH1SR
+						gB6g0hgZk5SjlJUdXxAXTlNNdXRh
+						YmxlUGFyYWdyYXBoU3R5bGVfEBBO
+						U1BhcmFncmFwaFN0eWxl0hgZl5ii
+						mB1cTlNEaWN0aW9uYXJ50hgZmp6k
+						m5ydHV1OU1RleHRTdG9yYWdlXxAZ
+						TlNNdXRhYmxlQXR0cmlidXRlZFN0
+						cmluZ18QEk5TQXR0cmlidXRlZFN0
+						cmluZ11OU1RleHRTdG9yYWdlEgAB
+						hqBfEA9OU0tleWVkQXJjaGl2ZXIA
+						CAARABYAHwAoADIANQA6ADwAYwBp
+						AHIAewCIAJMAmgCcAJ4AoACiAKcA
+						sQCzAL8AxADNANgA3ADuAPcBAAEH
+						ARIBGgEeASABIgEkASYBKgEsAS4B
+						MAE4AT8BUgFbAXABfQGDAYUBhwGJ
+						AbMBuAG9Ab8BxAHHAdQB4QHmAekB
+						8QH5AgICCQIQAhkCGwIdAiYCKAIy
+						AjcCOgJBAkgCTwJbAmYCaAJqAmwC
+						cQJzAoACggKEAoYCiAKKAowCjgKQ
+						ApIClAKWApgCnQKoArECswK4ArsC
+						xQLPAtQC3QLfAuQC7QLvAvQC/QL/
+						AwQDDQMPAxQDHQMfAyQDLQMvAzQD
+						PQM/A0QDTQNPA1QDXQNfA2QDbQNv
+						A3QDfQN/A4QDhwOPA5cDnAOeA58D
+						pAOoA8ID1QPaA90D6gPvA/QEAgQe
+						BDMEQQRGAAAAAAAAAgEAAAAAAAAA
+						oQAAAAAAAAAAAAAAAAAABFg=
+						</data>
+						<key>Line Number</key>
+						<string>-1</string>
+						<key>Object Representation</key>
+						<string>98847</string>
+						<key>Stroke</key>
+						<string>NO</string>
+						<key>Text Category</key>
+						<string>128</string>
+						<key>Text Storage 2</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIYWJUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABrxAU
+						CQoTFx4qKywtMzdAQ0dLU1RYCVtV
+						JG51bGzUCwwNDg8QERJYTlNTdHJp
+						bmdcTlNBdHRyaWJ1dGVzWk5TRGVs
+						ZWdhdGVWJGNsYXNzgAKABIASgBPS
+						DhQVFllOUy5zdHJpbmeAA28QQwCp
+						AKAAMgAwADEANgAtADIAMAAxADgA
+						IABUAGkAbQAgAFMAbgB5AGQAZQBy
+						ACAAJgAgAEQAZQByAGUAawAgAEwA
+						YQBuAGUALAAgAEEAbABsACAAUgBp
+						AGcAaAB0AHMAIABSAGUAcwBlAHIA
+						dgBlAGQAIABXAG8AcgBsAGQAdwBp
+						AGQAZQAu0hgZGhtYJGNsYXNzZXNa
+						JGNsYXNzbmFtZaMbHB1fEA9OU011
+						dGFibGVTdHJpbmdYTlNTdHJpbmdY
+						TlNPYmplY3TTHw4gISUmWk5TLm9i
+						amVjdHNXTlMua2V5c6MiIySACIAK
+						gA6AEaMnKCmABYAGgAdXTlNDb2xv
+						cl8QEE5TUGFyYWdyYXBoU3R5bGVW
+						TlNGb2500y4vDjAxMlxOU0NvbG9y
+						U3BhY2VVTlNSR0IQAU8QJDAuNDAw
+						MDAwMDA2IDAuNDAwMDAwMDA2IDAu
+						NDAwMDAwMDA2AIAJ0hgZNDaiNR1X
+						TlNDb2xvcldOU0NvbG9y1Tg5OjsO
+						PD08MD9aTlNUYWJTdG9wc18QFE5T
+						RGVmYXVsdFRhYkludGVydmFsW05T
+						VGV4dExpc3RzXxASTlNXcml0aW5n
+						RGlyZWN0aW9ugAsjQEIAAAAAAACA
+						C4AN0g4fQUKADKDSGBlERqJFHVdO
+						U0FycmF5V05TQXJyYXnSGBlISaNJ
+						Sh1fEBdOU011dGFibGVQYXJhZ3Jh
+						cGhTdHlsZV8QEE5TUGFyYWdyYXBo
+						U3R5bGXUTA5NTk9QUVJWTlNOYW1l
+						Vk5TU2l6ZVhOU2ZGbGFnc4APgBAj
+						QBwAAAAAAAAQEFdDYWxpYnJp0hgZ
+						VVeiVh1WTlNGb250Vk5TRm9udNIY
+						GVlaolodXE5TRGljdGlvbmFyedIY
+						GVxgpF1eXx1dTlNUZXh0U3RvcmFn
+						ZV8QGU5TTXV0YWJsZUF0dHJpYnV0
+						ZWRTdHJpbmdfEBJOU0F0dHJpYnV0
+						ZWRTdHJpbmddTlNUZXh0U3RvcmFn
+						ZRIAAYagXxAPTlNLZXllZEFyY2hp
+						dmVyAAgAEQAWAB8AKAAyADUAOgA8
+						AFMAWQBiAGsAeACDAIoAjACOAJAA
+						kgCXAKEAowEsATEBOgFFAUkBWwFk
+						AW0BdAF/AYcBiwGNAY8BkQGTAZcB
+						mQGbAZ0BpQG4Ab8BxgHTAdkB2wIC
+						AgQCCQIMAhQCHAInAjICSQJVAmoC
+						bAJ1AncCeQJ+AoACgQKGAokCkQKZ
+						Ap4CogK8As8C2ALfAuYC7wLxAvMC
+						/AL+AwYDCwMOAxUDHAMhAyQDMQM2
+						AzsDSQNlA3oDiAONAAAAAAAAAgEA
+						AAAAAAAAYwAAAAAAAAAAAAAAAAAA
+						A58=
+						</data>
+						<key>Text Wrapping Inset</key>
+						<string>0.000</string>
+						<key>Text wrapping</key>
+						<string>3</string>
+					</dict>
+					<key>Linked Text</key>
+					<dict>
+						<key>Address Panel ToFrom</key>
+						<string>YES</string>
+						<key>Address Source</key>
+						<string>1</string>
+						<key>Angle</key>
+						<string>0.000</string>
+						<key>Background Color</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUIGBlUJHRv
+						cFgkb2JqZWN0c1gkdmVyc2lvblkk
+						YXJjaGl2ZXLRBgdUcm9vdIABowkK
+						EVUkbnVsbNMLDA0ODxBcTlNDb2xv
+						clNwYWNlViRjbGFzc1dOU1doaXRl
+						EAOAAkIxANISExQXWCRjbGFzc2Vz
+						WiRjbGFzc25hbWWiFRZXTlNDb2xv
+						clhOU09iamVjdFdOU0NvbG9yEgAB
+						hqBfEA9OU0tleWVkQXJjaGl2ZXII
+						ERYfKDI1OjxARk1aYWlrbXB1fomM
+						lJ2lqgAAAAAAAAEBAAAAAAAAABoA
+						AAAAAAAAAAAAAAAAAAC8
+						</data>
+						<key>Bounds</key>
+						<string>{{-41.753448, 124.88809}, {64.810547, 14}}</string>
+						<key>Class ID</key>
+						<string>Titled Text</string>
+						<key>Dont AutoResize</key>
+						<string>YES</string>
+						<key>Field Mode</key>
+						<string>2</string>
+						<key>Fill Background</key>
+						<string>NO</string>
+						<key>FlipX</key>
+						<string>NO</string>
+						<key>FlipY</key>
+						<string>NO</string>
+						<key>Horizontal Alignment</key>
+						<string>0</string>
+						<key>Is Preferred</key>
+						<string>YES</string>
+						<key>Label::DefValue</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5qAQAAKwAAAAEA
+						AABiAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYxNTA0
+						XGNvY29hc3VicnRmODMwClxjb2Nv
+						YXNjcmVlbmZvbnRzMXtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQxMjJcZ3JlZW4x
+						MjJcYmx1ZTEyMjt9CntcKlxleHBh
+						bmRlZGNvbG9ydGJsOztcY3NnZW5l
+						cmljcmdiXGM0ODAwMFxjNDgwMDBc
+						YzQ4MDAwO30KXHBhcmRcdHg1NjBc
+						dHgxMTIwXHR4MTY4MFx0eDIyNDBc
+						dHgyODAwXHR4MzM2MFx0eDM5MjBc
+						dHg0NDgwXHR4NTA0MFx0eDU2MDBc
+						dHg2MTYwXHR4NjcyMFxwYXJkaXJu
+						YXR1cmFsCgpcZjBcZnMyNCBcY2Yy
+						IE19AQAAACMAAAABAAAABwAAAFRY
+						VC5ydGYQAAAATMJwWrYBAAAAAAAA
+						AAAAAA==
+						</data>
+						<key>Line Number</key>
+						<string>-1</string>
+						<key>Object Representation</key>
+						<string>98847</string>
+						<key>Stroke</key>
+						<string>NO</string>
+						<key>Text Category</key>
+						<string>128</string>
+						<key>Text Storage 2::DefValue</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5mAQAAKwAAAAEA
+						AABeAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYxNTA0
+						XGNvY29hc3VicnRmODMwClxjb2Nv
+						YXNjcmVlbmZvbnRzMXtcZm9udHRi
+						bFxmMFxmbmlsXGZjaGFyc2V0MCBD
+						YWxpYnJpO30Ke1xjb2xvcnRibDtc
+						cmVkMjU1XGdyZWVuMjU1XGJsdWUy
+						NTU7XHJlZDEwMlxncmVlbjEwMlxi
+						bHVlMTAyO30Ke1wqXGV4cGFuZGVk
+						Y29sb3J0Ymw7O1xjc2dlbmVyaWNy
+						Z2JcYzQwMDAwXGM0MDAwMFxjNDAw
+						MDA7fQpccGFyZFx0eDU2MFx0eDEx
+						MjBcdHgxNjgwXHR4MjI0MFx0eDI4
+						MDBcdHgzMzYwXHR4MzkyMFx0eDQ0
+						ODBcdHg1MDQwXHR4NTYwMFx0eDYx
+						NjBcdHg2NzIwXHBhcmRpcm5hdHVy
+						YWwKClxmMFxmczE0IFxjZjIgTX0B
+						AAAAIwAAAAEAAAAHAAAAVFhULnJ0
+						ZhAAAABMwnBatgEAAAAAAAAAAAAA
+						</data>
+						<key>Text Wrapping Inset</key>
+						<string>0.000</string>
+						<key>Text wrapping</key>
+						<string>3</string>
+					</dict>
+					<key>Object Representation</key>
+					<string>98847</string>
+					<key>Show Shortening</key>
+					<string>NO</string>
+					<key>Stroke</key>
+					<string>NO</string>
+					<key>Text Category</key>
+					<string>128</string>
+					<key>Text Storage 2::DefValue</key>
+					<data>
+					cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRm
+					AQAAAC5mAQAAKwAAAAEAAABeAQAAe1xydGYx
+					XGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYx
+					NTA0XGNvY29hc3VicnRmODMwClxjb2NvYXNj
+					cmVlbmZvbnRzMXtcZm9udHRibFxmMFxmbmls
+					XGZjaGFyc2V0MCBDYWxpYnJpO30Ke1xjb2xv
+					cnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUy
+					NTU7XHJlZDEwMlxncmVlbjEwMlxibHVlMTAy
+					O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xj
+					c2dlbmVyaWNyZ2JcYzQwMDAwXGM0MDAwMFxj
+					NDAwMDA7fQpccGFyZFx0eDU2MFx0eDExMjBc
+					dHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYw
+					XHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYw
+					MFx0eDYxNjBcdHg2NzIwXHBhcmRpcm5hdHVy
+					YWwKClxmMFxmczE0IFxjZjIgTX0BAAAAIwAA
+					AAEAAAAHAAAAVFhULnJ0ZhAAAABMwnBatgEA
+					AAAAAAAAAAAA
+					</data>
+					<key>Text Wrapping Inset</key>
+					<string>0.000</string>
+					<key>Text wrapping</key>
+					<string>3</string>
+				</dict>
+			</array>
+			<key>Horizontal</key>
+			<string>NO</string>
+			<key>Ignore Master Page</key>
+			<string>NO</string>
+			<key>Index Master Page</key>
+			<string>-1</string>
+			<key>Note</key>
+			<string></string>
+			<key>Page Orientation</key>
+			<string>1</string>
+		</dict>
+	</array>
+	<key>Document Master Pages</key>
+	<array/>
+	<key>Document Type</key>
+	<string>Label</string>
+	<key>First Name</key>
+	<string>Kenneth L.</string>
+	<key>Last Name</key>
+	<string>Sheddan</string>
+	<key>Paper Color</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUIGBlUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLR
+	BgdUcm9vdIABowkKEVUkbnVsbNMLDA0ODxBcTlNDb2xvclNwYWNlViRjbGFzc1dOU1do
+	aXRlEAOAAkIxANISExQXWCRjbGFzc2VzWiRjbGFzc25hbWWiFRZXTlNDb2xvclhOU09i
+	amVjdFdOU0NvbG9yEgABhqBfEA9OU0tleWVkQXJjaGl2ZXIIERYfKDI1OjxARk1aYWlr
+	bXB1fomMlJ2lqgAAAAAAAAEBAAAAAAAAABoAAAAAAAAAAAAAAAAAAAC8
+	</data>
+	<key>Predefined Layout</key>
+	<dict>
+		<key>Background File</key>
+		<string></string>
+		<key>Category</key>
+		<string>Business Cards</string>
+		<key>Columns</key>
+		<string>2</string>
+		<key>Description</key>
+		<string></string>
+		<key>ID</key>
+		<string>Avery 10 Perforated Business Cards (3-1/2*2in)</string>
+		<key>Is Ellipse</key>
+		<string>NO</string>
+		<key>LeftMargin</key>
+		<string>54.000</string>
+		<key>Manufacturer</key>
+		<string>Avery</string>
+		<key>PageSize</key>
+		<string>US Letter</string>
+		<key>Rows</key>
+		<string>5</string>
+		<key>TopMargin</key>
+		<string>36.000</string>
+	</dict>
+	<key>Show Layout Elements</key>
+	<string>YES</string>
+	<key>Units</key>
+	<string>1</string>
+	<key>key_FoldLinesArray</key>
+	<dict/>
+</dict>
+</plist>
