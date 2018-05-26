@@ -1,0 +1,12 @@
+Each card deck has 55 cards, including...
+
+24 Steady as she goes cards			HS-Card-going-to-plan.md
+3 you found a defect				HS-Card-found-defect.md
+5 something broke. add a task			HS-Card-build-broken.md
+5 Good news. You're ahead			HS-Card-wind-at-back.md
+5 Got Defects? Miss a turn			HS-Card-got-bugs.md
+3 Refactor! Add a tech debt			HS-Card-refactor-debt.md
+5 Got Debt? Double your estimates		HS-Card-got-tech-debt.md
+5 HArd Disk crash! you're out...		HS-Card-fired-disk.md
+
+David inferred this card mix... it may be wrong.

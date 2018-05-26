@@ -1,0 +1,55 @@
+Build a card Deck from individual card source files.
+We are going to use Make, Pandoc and a bit of unix shell scripting.
+
+Setting up to use Pandoc.
+=========================
+
+Install Homebrew
+https://brew.sh
+
+Install Pandoc
+https://pandoc.org/installing.html
+
+I don't know if these tools are going to be used for PANDOC Markdown to MS Word files.
+
+Install MacTeX2018
+http://www.tug.org/mactex/mactex-download.html
+
+Install MacTex BasicTex - for XeLaTeX
+http://www.texts.io/support/0001/
+
+
+
+Convert Word Docx to Markdown
+=============================
+
+Docx to markdown, including math: pandoc -s example30.docx -t markdown -o example35.md
+
+Standalone HTML file:
+pandoc -s MANUAL.txt -o example2.html
+
+Word docx:
+pandoc -s MANUAL.txt -o example29.docx
+
+
+
+Makeing a pandoc reference.docx with MS Word page size and fonts
+================================================================
+This pandoc command dumps a MS Word default reference file, then I edit it in Apple Pages to have the page size I desire (3.5 X 2.5) & header/footer to zero and small margins and theorical could set up fonts... etc.
+By passing the reference.docx on pandoc command line we get the page size specified.
+> pandoc --print-default-data-file reference.docx > reference.docx
+
+
+Adding page breaks with Pandoc Markdown
+=======================================
+
+It appears that Markdown doesn't have a pagebreak command (I know - crazy) so some hacks are created... 
+an HTML CSS pagebreak hack discussed: http://www.chami.com/tips/internet/052898I.html
+This code works also (see pagebreak.md) it is embedded XML in markdown.
+```{=openxml}
+<w:p>
+  <w:r>
+    <w:br w:type="page"/>
+  </w:r>
+</w:p>
+```
